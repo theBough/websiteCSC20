@@ -5,5 +5,8 @@ body{
 }
 h1{
   font-family: Montserrat;
-  
+}
+li a{
+  display: inline;
+  text-decoration: none;
 }
